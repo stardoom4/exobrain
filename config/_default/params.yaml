@@ -15,7 +15,7 @@ hb:
     socials:
       _color: true # when false, remove the color of social icons.
       github: stardoom4
-      twitter: razonyang
+      twitter: garuda_4244
   blog:
     full_width: false # when true, the blog layout takes full width.
     sidebar:
