@@ -1,5 +1,6 @@
 ---
 title: "Lebensraum"
+featured: https://upload.wikimedia.org/wikipedia/commons/0/0b/Greater_Germanic_Reich.png
 # linkTitle:
 date: 2023-03-31T11:47:31+08:00
 draft: false
