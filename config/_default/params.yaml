@@ -9,7 +9,7 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: stardoom4
-      twitter: razonyang
+      twitter: garuda_4244
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
@@ -37,14 +37,14 @@ hb:
         - blog
         - tutorials
     giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+      repo: stardoom4/exobrain
+      repo_id: R_kgDOKXO0ig
+      category_id: DIC_kwDOKXO0is4CarUM
   docs:
     giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+      repo: stardoom4/exobrain
+      repo_id: R_kgDOKXO0ig
+      category_id: DIC_kwDOKXO0is4CarUM
   content_panel:
     repo:
       service: github # github or gitlab.
