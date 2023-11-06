@@ -33,7 +33,8 @@ hb:
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
-        - docs
+        - blog
+        - tutorials
     giscus:
       repo: stardoom4/exobrain
       repo_id: R_kgDOKXO0ig
