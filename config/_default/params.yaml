@@ -47,8 +47,8 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
-      branch: main
+      repo: stardoom4/exobrain
+      branch: deploy
       # subpath: exampleSite
   # gallery:
   #   thumbnail_size: "x640"
